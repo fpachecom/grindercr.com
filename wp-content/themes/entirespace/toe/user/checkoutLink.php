@@ -1,0 +1,1 @@
+<a class="button blue-button" href="<?php echo frame::_()->getModule('pages')->getLink(array('mod' => 'checkout', 'action' => 'getAllHtml'))?>"><?php lang::_e('Checkout')?></a>

@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<products>
+	<category>
+		<name>Glasses</name>
+		<img>banner02-220x130.jpg</img>
+	</category>
+	<category>
+		<name>Bags</name> 
+		<img>Louis_Vuitton_Speedy_Hand_Bags-220x130.jpg</img>
+	</category>
+	<category>
+		<name>Shoes</name>  
+		<img>ShoeBanner-220x130.jpg</img>
+		<children>
+			<category>Junior</category>
+			<img>Super_Junior_Banner_by_danhobak_love-220x130.jpg</img>
+			<category>Man</category>
+			<img>mens_banner-220x130.jpg</img>
+			<category>Woman</category>
+			<img>1345026252womens-shoes-banner-220x130.jpg</img>
+		</children>
+	</category>
+	<category>
+		<name>Watches</name> 
+		<img>ca-banner-menWatches_1-220x130.jpg</img>
+	</category>
+	
+	
+<brands>
+	<brand>
+		<name>Adidas</name>
+	</brand>
+	<brand>
+		<name>Armany</name>
+	</brand>
+	<brand>
+		<name>Ben Sherman</name>
+	</brand>
+	<brand>
+		<name>Casio</name>
+	</brand>
+	<brand>
+		<name>Citizen</name>
+	</brand>
+	<brand>
+		<name>DKNY</name>
+	</brand>
+	<brand>
+		<name>Louis Vuitton</name>
+	</brand>
+	<brand>
+		<name>Lugz</name>
+	</brand>
+	<brand>
+		<name>Boss</name>
+	</brand>
+	<brand>
+		<name>Heelys</name>
+	</brand>
+	<brand>
+		<name>Motorola</name>
+	</brand>
+	<brand>
+		<name>Nike</name>
+	</brand>
+	<brand>
+		<name>Nokia</name>
+	</brand>
+</brands>
+	
+	<product>
+		<tax_input_categories>Bags</tax_input_categories>
+		<tax_input_brands>Louis Vuitton</tax_input_brands>
+		<post_content>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue.</post_content>
+		<post_excerpt>Amazing handbag. Available indifferent colors and sizes. Edge Paint Satchel - just take it!</post_excerpt>
+		<post_name>edge-paint-satchel</post_name>
+		<post_title>Edge Paint Satchel</post_title>
+		<price>83.11</price>
+		<sku>902</sku>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>291861_bk_xl.jpg</filename>
+			</img>
+			<img>
+				<filename>291861_e1_xl.jpg</filename>
+			</img>
+			<img>
+				<filename>291861_fr_xl.jpg</filename>
+			</img>
+			<img>
+				<filename>291861_in_xl.jpg</filename>
+			</img>
+			<img>
+				<filename>291861_bk_xl_160.jpg</filename>
+			</img>
+		</imgs>
+	</product>	
+	
+	<product>
+		<tax_input_categories>Bags</tax_input_categories>
+		<tax_input_brands>Armany</tax_input_brands>
+		<post_content>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.
+Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue.</post_content>
+		<post_excerpt>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula.</post_excerpt>
+		<post_name>modern-and-unique</post_name>
+		<post_title>Modern and Unique</post_title>
+		<price>23.98</price>
+		<sku>903</sku>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>270687_bk_xl_160.jpg</filename>
+			</img>
+			<img>
+				<filename>270687_e1_xl.jpg</filename>
+			</img>
+			<img>
+				<filename>270687_fr_xl.jpg</filename>
+			</img>
+			<img>
+				<filename>270687_bk_xl.jpg</filename>
+			</img>
+			<img>
+				<filename>270687_in_xl.jpg</filename>
+			</img>
+		</imgs>
+	</product>	
+	
+		
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+		<product>
+		<tax_input_categories>Watches</tax_input_categories>
+		<tax_input_brands>Casio</tax_input_brands>
+		<post_content>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue.</post_content>
+		<post_excerpt>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</post_excerpt>
+		<post_name>invicta-mens-russian-diver-watch-2</post_name>
+		<post_title>INVICTA MEN\’S RUSSIAN DIVER WATCH</post_title>
+		<price>211.76</price>
+		<sku>681</sku>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>jomashop_2235_559895226.gif</filename>
+			</img>
+		</imgs>
+	</product>	
+
+	
+	<product>
+		<tax_input_categories>Shoes, Junior</tax_input_categories>
+		<tax_input_brands>Heelys</tax_input_brands>
+		<post_content>
+		&lt;ul&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 1&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.
+&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 2&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.&lt;/li&gt;
+	&lt;li&gt;
+&lt;h3&gt;List Item 3&lt;/h3&gt;
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus.&lt;/li&gt;
+&lt;/ul&gt;</post_content>
+		<post_excerpt>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</post_excerpt>
+		<post_name>triumph-7-running-shoes</post_name>
+		<post_title>TRIUMPH 7 RUNNING SHOES</post_title>
+		<price>36.56</price>
+		<sku>263</sku>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>Angulus-vinterstøvle-dark-blue-1202-back-p-160-150x150.jpg</filename>
+			</img>
+			<img>
+				<filename>Angulus-vinterstøvle-dark-blue-1202-p.jpg</filename>
+			</img>
+			<img>
+				<filename>Angulus-vinterstøvle-sort-1202-p.jpg</filename>
+			</img>
+		</imgs>
+	</product>	
+	
+	
+	
+		<product>
+		<tax_input_categories>Shoes, Woman</tax_input_categories>
+		<tax_input_brands>Ben Sherman</tax_input_brands>
+		<post_content>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue.</post_content>
+		<post_excerpt>Aerosoles Women’s Well Wisher</post_excerpt>
+		<post_name>aerosoles-womens-well-wisher</post_name>
+		<post_title>AEROSOLES WOMEN’S WELL WISHER</post_title>
+		<price>143.54</price>
+		<sku>210</sku>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>elegant-leather-low-heel-closed-toe-with-velcro-party-evening-shoes-more-colors_avaanf1348652620552.jpg</filename>
+			</img>
+			<img>
+				<filename>elegant-leather-low-heel-closed-toe-with-velcro-party-evening-shoes-more-colors_hmefgq1348652619803.jpg</filename>
+			</img>
+			<img>
+				<filename>elegant-leather-low-heel-closed-toe-with-velcro-party-evening-shoes-more-colors_ligjkk1348652627127.jpg</filename>
+			</img>
+		</imgs>
+	</product>	
+	
+		<product>
+		<tax_input_categories>Shoes, Woman</tax_input_categories>
+		<tax_input_brands>Lugz</tax_input_brands>
+		<post_content>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in dui mauris. Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus. Mauris iaculis porttitor posuere. Praesent id metus massa, ut blandit odio. Proin quis tortor orci. Etiam at risus et justo dignissim congue.</post_content>
+		<post_excerpt>FERGALICIOUS Women’s Naples</post_excerpt>
+		<post_name>fergalicious-womens-naples</post_name>
+		<post_title>FERGALICIOUS WOMEN’S NAPLES</post_title>
+		<price>82.19</price>
+		<sku>219</sku>
+		<featured>0</featured>
+		<number_of_views>0</number_of_views>
+		<imgs>
+			<img>
+				<filename>leatherette-stiletto-mary-janes-with-velcro-strap-more-colors_efscxc1331718222283.jpg</filename>
+			</img>
+			<img>
+				<filename>leatherette-stiletto-mary-janes-with-velcro-strap-more-colors_mpmyvn1331718224109.jpg</filename>
+			</img>
+			<img>
+				<filename>leatherette-stiletto-mary-janes-with-velcro-strap-more-colors_tvpbnx1331718223243.jpg</filename>
+			</img>
+		</imgs>
+	</product>	
+	</products>
